@@ -1,10 +1,14 @@
 # ForwardJS Workshop 
 
 ## Downloads
-[Node.js](https://nodejs.org/en/)
-[Putty] (http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html)  For Windows 
-[CoolTerm](http://freeware.the-meiers.org/CoolTerm_Mac.zip) for Mac
-[Visual Studio Code](https://code.visualstudio.com/)
+- [Node.js](https://nodejs.org/en/)
+
+- [Putty] (http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html)  For Windows 
+
+- [CoolTerm](http://freeware.the-meiers.org/CoolTerm_Mac.zip) for Mac
+
+- [Visual Studio Code](https://code.visualstudio.com/)
+
 
 ## Examples 
 Some of the examples use APIS. You might want to register with:
