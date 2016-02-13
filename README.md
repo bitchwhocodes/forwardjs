@@ -86,7 +86,30 @@ This example is an Express application that will capture an image from your web 
 - Visit http://localhost:3000
 
 
-Note: If you publish this to the web, you need to provide HTTPS for this to work in all browsers due to security imposed for user media. 
+Note: If you publish this to the web, you need to provide HTTPS for this to work in all browsers due to security imposed for user media.
+
+* Particle Weather Shield :Reading the Serial *
+- Flash the Particle with the Sparkfun Weathershield Library from the Web IDE by going to libraries > search and search for the library. 
+- Discover which port your device is using via the previous instructions
+- Open up CoolTerm or Putting and start a serial connection. Make sure the baud rate is 9600 and you have the correct port. When it starts, click into the window. 
+- Watch the output from the shield. 
+
+
+* Particle Weather Shield :Reading with SerialPort *
+- Flash the Particle with the Sparkfun Weathershield Library from the Web IDE by going to libraries > search and search for the library. 
+- Discover which port your device is using via the previous instructions
+- Install the [SerialPort module](https://github.com/voodootikigod/node-serialport)
+-     npm install serialport
+- Create a script using this [Serial Port Example](https://github.com/bitchwhocodes/forwardjs/blob/master/demos/serialport/app.js)
+- Run the script by passing in the port number
+-     node app.js COM6
+
+### Extensions
+- Take data from the shield and using Socket IO, update the client side
+- Take data from the shield and save it to a database or storage 
+
+
+
     
 
 
