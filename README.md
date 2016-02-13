@@ -2,12 +2,10 @@
 
 ## Downloads
 - [Node.js](https://nodejs.org/en/)
-
 - [Putty] (http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html)  For Windows 
-
 - [CoolTerm](http://freeware.the-meiers.org/CoolTerm_Mac.zip) for Mac
-
 - [Visual Studio Code](https://code.visualstudio.com/)
+- [Arduino](https://www.arduino.cc/en/Main/Software)
 
 
 ## Examples 
